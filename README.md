@@ -1,2 +1,0 @@
-# dscript
-docker
